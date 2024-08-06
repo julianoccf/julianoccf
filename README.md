@@ -1,4 +1,4 @@
-## sejam bem vindo au meu erfil
+## sejam bem vindo au meu oerfil
 
 
 **julianoccf/julianoccf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
